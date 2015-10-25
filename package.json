@@ -1,0 +1,23 @@
+{
+  "name": "multiline-slash",
+  "version": "1.0.0",
+  "description": "Multi-line strings using // as a commentor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amireh/multiline-slash.git"
+  },
+  "keywords": [
+    "multiline",
+    "comment"
+  ],
+  "author": "Ahmad Amireh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amireh/multiline-slash/issues"
+  },
+  "homepage": "https://github.com/amireh/multiline-slash#readme"
+}
